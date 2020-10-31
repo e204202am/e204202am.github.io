@@ -1,0 +1,20 @@
+h1{
+    color:#ff6477;
+    text-align: center;
+    background-color: orange;
+    
+}
+h2{
+    color:mediumblue;
+    text-align: center;
+    background-color: lightcyan;
+}
+h3{
+    color:navy;
+}
+p{
+    color:midnightblue;
+}
+body{
+    background-image: url(../images/abc.jpeg)
+}
