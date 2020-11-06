@@ -1,0 +1,29 @@
+h1{
+    color:#ffffff;
+    text-align: center;
+    background-color: orange;
+    
+}
+h2{
+    color:#FFFFFF;
+    text-align: center;
+    background-color: #808080;
+}
+h3{
+    color:navy;
+}
+p{
+    color:midnightblue;
+}
+tr{
+    background-color: lightcyan;
+}
+ol{
+    background-image: url(../images/pattern_54.jpg)
+}
+a{
+    color:#0000FF;
+}
+body{
+    background-image: url(../images/c9b662b6771a9baaaae218435fdc45a0_t.jpeg)
+}
