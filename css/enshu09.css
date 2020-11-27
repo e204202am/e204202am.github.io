@@ -1,0 +1,21 @@
+.bluecolor{
+    color: blue;
+}
+/* .bluecolor{}の形でもよい。その場合ｐタグだけでなく他の.bluecolorグループ全体に適用される。*/
+
+h1#kudo{
+    font-family: impact;
+    font-size: 60px;
+}
+
+h2{
+    color: red　!important;
+}
+
+h2{
+    color:green;
+}
+
+h2:hover{
+    background-color: blueviolet;
+}
