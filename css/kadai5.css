@@ -63,3 +63,8 @@ div.footer{
     text-align: right;
     margin-top: 10px;
 }
+
+div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
