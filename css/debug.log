@@ -1,6 +1,2 @@
-[1030/133705.474:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1106/140858.333:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1127/141442.000:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1204/134622.146:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1211/133437.282:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
-[1211/141025.427:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[0114/045536.788:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[0114/092125.459:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Owner\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\574625c0-0dd3-4ecf-bd15-3b4c30b33d6a: 指定されたパスが見つかりません。 (0x3)
